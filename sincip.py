@@ -38,7 +38,7 @@ MIME-Version: 1.0
 Content-type: text/html
 Subject: """+get_subject+"""
 <h3>SINC IP UPDATER</h3>
-<p>The easiest way to stay updated with the information from your dynamic ip address</p>
+<p>The easiest way to stay updated with the information from your dynamic ip address</p> 
 <br/>
 Hostname: """+get_hostname+ """<br/>
 Current ip: """+step2+"""<br/>
